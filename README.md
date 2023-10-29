@@ -6,15 +6,16 @@ The purpose of this challenge was to create an application that generates  a sec
 
 No prerequisites are needed to use this project, as it can be viewed directly on the web browser.
 
-# Demonstration
+# Demo
+
+The live site can be found at the following URL - 
+
+A screenshot of the live site can be seen below - 
+
 
 # Getting Started
 
 The project can be viewed by opening the HTML file in a browser or through clicking the GitHub pages link included in this ReadMe file. To generate a password, users should click the 'Generate Password' button and follow any input messages.
-
-
-
-Configuration: Information about any configuration options, settings, or environment variables.
 
 # Acknowledgments
 
@@ -23,4 +24,14 @@ Links used:
 Creating a confirm option - 
 https://stackoverflow.com/questions/18473137/making-a-confirm-box
 https://stackoverflow.com/questions/29898641/alert-confirmation-javascript/29898915
+
+Picking random element from arrays - 
+https://stackoverflow.com/questions/1527803/generating-random-whole-numbers-in-javascript-in-a-specific-range
+https://www.w3schools.com/jsref/jsref_random.asp
+
+Using user options in a function - 
+https://stackoverflow.com/questions/13453537/difference-between-var-options-options-and-options-options
+
+Concat in Javascript -
+https://www.w3schools.com/jsref/jsref_concat_string.asp
 
