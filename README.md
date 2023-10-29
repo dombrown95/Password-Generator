@@ -19,3 +19,8 @@ Configuration: Information about any configuration options, settings, or environ
 # Acknowledgments
 
 Links used: 
+
+Creating a confirm option - 
+https://stackoverflow.com/questions/18473137/making-a-confirm-box
+https://stackoverflow.com/questions/29898641/alert-confirmation-javascript/29898915
+
