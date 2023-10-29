@@ -1,6 +1,8 @@
 # JavaScript Password Generator Challenge
 
-The purpose of this challenge was to create an application that generates  a secure password when a button is clicked. The password needed to feature special characters ($@%&*, etc) and present a series of prompts to the user for password criteria. 
+The purpose of this challenge was to create an application that generates a secure password when a button is clicked. The application first prompts the user for input with a number of options, such as asking if they'd like to include capital letters or special characters ($@%&*, etc) in their password. 
+
+Once these options have been selected, the user can click the 'Generate Password' option and will receive their unique password.
 
 # Prerequisites
 
