@@ -12,8 +12,11 @@ No prerequisites are needed to use this project, as it can be viewed directly on
 
 The live site can be found at the following URL - 
 
+https://dombrown95.github.io/Password-Generator/
+
 A screenshot of the live site can be seen below - 
 
+![An image of a password generator website](image.png)
 
 # Getting Started
 
